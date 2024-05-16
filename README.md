@@ -1,4 +1,4 @@
-# cissp-study-guide
+# CISSP Study Guide
 
 How to pass the CISSP in only a month? 
 
